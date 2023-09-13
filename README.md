@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey, Victor here! 🙋‍♂️
 
-<!--
-**victorgrubio/victorgrubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated and passionate coding professional with a team of 4 people at charge. Part of my job is to guide and support less experienced developers in their day-to-day job. GCP and AWS certified architect.
 
-Here are some ideas to get you started:
+I have 5+ years of experience in coding jobs, with my main skills being:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 5+ years of Python programming
+- 4+ years of Java (Spring boot) programming. Currently, day-to-day job.
+- 3+ years using Typescript and Angular to build frontend application.
+- 2+ years of using Terraform and Kubernetes to make Cloud Native applications.
+- Other mentions: Docker, GCP, AWS, Microservices.
+
+With years of experience in web development and a deep understanding of coding principles, I am committed to help individuals unlock their full potential and achieve success in the world of coding.
