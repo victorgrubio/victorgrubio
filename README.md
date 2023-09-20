@@ -1,13 +1,41 @@
-Hey, Victor here! 🙋‍♂️
+# Victor Garcia
 
-I am a dedicated and passionate coding professional with a team of 4 people at charge. Part of my job is to guide and support less experienced developers in their day-to-day job. GCP and AWS certified architect.
+## Profile
+
+### Devops Engineer at @SAP
+
+### GCP and AWS certified architect. Python, Java, Angular, Typescript, Terraform, Kubernetes
+
+I am a passionate and experienced coding professional with a deep understanding of coding principles. Currently helping less experienced developers in my team to create a successfull department along with other experienced developers & managers. I am committed to helping individuals unlock their full potential and achieve success in the world of coding.
 
 I have 5+ years of experience in coding jobs, with my main skills being:
 
-- 5+ years of Python programming
-- 4+ years of Java (Spring boot) programming. Currently, day-to-day job.
-- 3+ years using Typescript and Angular to build frontend application.
-- 2+ years of using Terraform and Kubernetes to make Cloud Native applications.
-- Other mentions: Docker, GCP, AWS, Microservices.
+* ☕ 5+ years of **Java (Spring boot) programming**
+* 🐍 5+ years of **Python programming**
+* 🅰️ 3+ years using **Typescript and Angular** to build frontend applications
+* 🏗️ 2+ years of using **Terraform and Kubernetes to make Cloud Native applications**
+* 🐳 Additional devops knowledge: **Docker** extensive experience and **CICD**
+* ☁️ Cloud expertise: **GCP, AWS certified architect**
+* 👨‍🏫 Software developer expertise: Developed microservice architectures using **Kubernetes, Traefik in cloud**
 
-With years of experience in web development and a deep understanding of coding principles, I am committed to help individuals unlock their full potential and achieve success in the world of coding.
+## Mentorships
+
+I am also a mentor to less experienced developers, and I am passionate about helping others learn and grow. I offer mentorship services on a variety of topics, including:
+
+* 👨‍🏫 **Coding fundamentals:** Python, Java, Angular, Typescript
+* ☁️ **Cloud Applications & Certificates:** GCP, AWS, Azure
+* 🏗️ **DevOps:** Docker, CI/CD, Terraform, Kubernetes
+* 👨‍💻 **Career advice:** how to grow your career, how to be a better developer, how to negotiate a salary, how to find a job in tech.
+
+If you are interested in mentorship services, you can book a [free 15 minute meeting](https://cal.mentorcruise.com/victorgarcia/15-minutes). Additional sessions & plans are available in [MentorCruise](https://mentorcruise.com/mentor/victorgarcia/)
+
+## Contact
+###  Socials
+
+* 🐦 [Twitter](https://twitter.com/VictorGarciaDev)
+* 💼 [LinkedIn](https://www.linkedin.com/in/victor-garcia-rubio/)
+
+### Reach out
+
+You can contact me by [email](mailto:victorgrubiodl@gmail.com), or in my socials. Everyone is welcome, I love to chat with other people and share experiences!
+
