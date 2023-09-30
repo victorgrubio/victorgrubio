@@ -1,14 +1,14 @@
 # Victor Garcia
 
-**Devops Engineer at @SAP**
+[**Devops Engineer at @SAP**](https://www.linkedin.com/in/victor-garcia-rubio/)
 
-## Mentoring Services
+## [Mentoring Services](https://mentorcruise.com/mentor/victorgarcia/)
 
-[![Find me on MentorCruise](https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg)](https://mentorcruise.com/mentor/victorgarcia/)
+[![Find me on MentorCruise](https://cdn.mentorcruise.com/img/banner/navy-sm.svg)](https://mentorcruise.com/mentor/victorgarcia/)
 
 [![find-me-on-cm-b](https://github.com/victorgrubio/victorgrubio/assets/45101838/04015dd9-af46-4b1f-ad31-1333c39543ee)](https://www.codementor.io/@victorgrubio?refer=badge)
 
-## Blog
+## [Blog](https://victorgarciar.com)
 
 I have a personal blog where I publish my content. [Check it out!](https://victorgarciar.com)
 
