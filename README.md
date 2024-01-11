@@ -2,9 +2,10 @@
 
 [**Devops Engineer at @SAP**](https://www.linkedin.com/in/victor-garcia-rubio/)
 
-## [Mentoring Services](https://mentorcruise.com/mentor/victorgarcia/)
+<a href="https://mentorcruise.com/mentor/victorgarcia/">
+<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
+</a>
 
-[![Find me on MentorCruise](https://cdn.mentorcruise.com/img/banner/navy-sm.svg)](https://mentorcruise.com/mentor/victorgarcia/)
 
 ## [Blog](https://blog.devsmentor.com)
 
@@ -18,13 +19,19 @@ I am a passionate and experienced coding professional with a deep understanding 
 
 I have 5+ years of experience in coding jobs, with my main skills being:
 
-* ☕ 5+ years of **Java (Spring boot) programming**
-* 🐍 5+ years of **Python programming**
+* ☕ 6+ years of **Java (Spring boot) programming**
+* 🐍 6+ years of **Python programming**
 * 🅰️ 3+ years using **Typescript and Angular** to build frontend applications
-* 🏗️ 2+ years of using **Terraform and Kubernetes to make Cloud Native applications**
-* 🐳 Additional devops knowledge: **Docker** extensive experience and **CICD**
-* ☁️ Cloud expertise: **GCP, AWS certified architect**
+* 🏗️ 3+ years of using **Terraform and Kubernetes to make Cloud Native applications**
+* 🐳 Additional devops knowledge: **Docker** extensive experience and **CI/CD**
+* ☁️ Cloud expertise: **GCP, AWS, Terraform Certified Architect**
 * 👨‍🏫 Software developer expertise: Developed microservice architectures using **Kubernetes, Traefik in cloud**
+
+## Contact
+
+* 🐦 [Twitter](https://twitter.com/VictorGarciaDev)
+* 💼 [LinkedIn](https://www.linkedin.com/in/victor-garcia-rubio/)
+You can contact me by [email](mailto:victorgrubiodl@gmail.com), or in my socials. Everyone is welcome, I love to chat with other people and share experiences!
 
 ## Mentorships
 
@@ -37,13 +44,8 @@ I am also a mentor to less experienced developers, and I am passionate about hel
 
 If you are interested in mentorship services, you can book a [free 15 minute meeting](https://cal.mentorcruise.com/victorgarcia/15-minutes). Additional sessions & plans are available in [MentorCruise](https://mentorcruise.com/mentor/victorgarcia/)
 
-## Contact
-###  Socials
+<a href="https://mentorcruise.com/mentor/victorgarcia/">
+<img src="https://mentorcruise.com/mentor/victorgarcia/widget/" loading="lazy" class="md:h-28" style="max-height: 140px" alt="">
+</a>
 
-* 🐦 [Twitter](https://twitter.com/VictorGarciaDev)
-* 💼 [LinkedIn](https://www.linkedin.com/in/victor-garcia-rubio/)
-
-### Reach out
-
-You can contact me by [email](mailto:victorgrubiodl@gmail.com), or in my socials. Everyone is welcome, I love to chat with other people and share experiences!
 
